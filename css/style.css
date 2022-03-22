@@ -10,3 +10,20 @@ body {
     background-color: antiquewhite;
 }
 
+/* header */
+
+.container {
+    display:inline-block;
+    margin: 20px;
+}
+
+.logotype {
+    font-family: 'Roboto', sans-serif;
+    font-size: xx-large;
+    font-weight: 700;
+    line-height: 40px;    
+}
+
+header {
+    background-color: white;
+}
